@@ -1,2 +1,2 @@
-# Project-1
+# WMT
 Technical Writing
